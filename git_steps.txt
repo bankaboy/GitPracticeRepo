@@ -3,3 +3,10 @@ add, edit files on local computer
 git add file to add to local repo
 git commit file -m with message
 git push too push to server
+
+Merge Conflict Notes :
+
+Get message, "merge conflicts fail, resolve conflicts and then commit"
+Get hashcode for conflicting of commits
+<<<< ==== between them is my commit
+==== >>>> between them is other's commit
