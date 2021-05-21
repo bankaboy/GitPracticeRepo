@@ -1,0 +1,5 @@
+create a repo and git clone the empty repo
+add, edit files on local computer
+git add file to add to local repo
+git commit file -m with message
+git push too push to server
